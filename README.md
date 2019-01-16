@@ -10,7 +10,7 @@
 大概提供一下我的電腦環境
 >intel 6770K  
 >Z170  
->[]SSD 256MB  
+>SSD 256MB  
 >DDR4 16G  
 >win7 64bit  
 
