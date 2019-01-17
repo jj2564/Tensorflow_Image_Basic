@@ -97,3 +97,5 @@ python -m scripts.label_image --graph=tf_files/retrained_graph.pb --image=sun.jp
 這張圖經過測試 大概可以辨識出有玫瑰鬱金香跟向日葵得分超過0.1的基本上都可以視為存在。
 
 以上就是基本入門的體驗了，如果有更多的研究會再更新上來。
+
+This is based on <https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0>
