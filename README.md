@@ -1,5 +1,5 @@
-# Tensorflow_Basic
-我從0到建立出基本架構的紀錄
+# Tensorflow_Image_Basic
+我從0到建立出基本的圖像辨識架構
 
 根據範例可以成功的辨識出來五種不同的花朵
 
